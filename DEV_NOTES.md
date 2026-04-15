@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Checked for memory leaks in long-running path
 - Noted known limitation in docs
+
+## 2026-04-15
+- Updated CI cache strategy
+- Documented config options
+- Ran linter, applied auto-fixes
